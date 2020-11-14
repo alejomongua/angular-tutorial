@@ -1,0 +1,23 @@
+{
+  "name": "angular-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial de Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejomongua/angular-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejomongua/angular-tutorial/issues"
+  },
+  "homepage": "https://github.com/alejomongua/angular-tutorial#readme",
+  "dependencies": {
+    "@angular/cli": "^11.0.1"
+  }
+}
