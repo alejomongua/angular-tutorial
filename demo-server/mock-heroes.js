@@ -1,6 +1,4 @@
-import { Hero } from './hero';
-
-export const HEROES: Hero[] = [
+module.exports = [
     { id: 11, name: 'Dr Nice' },
     { id: 12, name: 'Narco' },
     { id: 13, name: 'Bombasto' },
